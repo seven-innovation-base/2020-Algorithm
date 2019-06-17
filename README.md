@@ -27,3 +27,5 @@
     - 堆：大小根堆、可并堆
     - 字符串：字典树、后缀树
 
+![算法面试](https://raw.githubusercontent.com/seven-innovation-base/2019-Algorithm/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95.jpg)
+
