@@ -29,3 +29,7 @@
 
 ![算法面试](https://raw.githubusercontent.com/seven-innovation-base/2019-Algorithm/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95.jpg)
 
+------
+
+- [ACM Cheat Sheet](https://github.com/soulmachine/acm-cheat-sheet)
+
