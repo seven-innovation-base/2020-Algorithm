@@ -31,5 +31,6 @@
 
 ------
 
+- [The Algorithms - Welcome to GitHub's largest open-source algorithm library](https://the-algorithms.com/)
 - [ACM Cheat Sheet](https://github.com/soulmachine/acm-cheat-sheet)
 
